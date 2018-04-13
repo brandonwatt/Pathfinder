@@ -480,6 +480,6 @@ if __name__ == '__main__':
     copyDic['Dex'] = 18
     print(basic.myStats)
     print(copyDic)
-    
+    print(copyDic)
     
     
