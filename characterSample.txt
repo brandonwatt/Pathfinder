@@ -1,0 +1,466 @@
+{
+    "myAC": {
+        "myArmor": 0,
+        "myDefl": 0,
+        "myDexMod": 0,
+        "myFlatFoot": 15,
+        "myMisc": 0,
+        "myNatArm": 0,
+        "myShield": 0,
+        "mySize": 0,
+        "myTotal": 15,
+        "myTouch": 9
+    },
+    "myBA": 2,
+    "myCMB": 3,
+    "myCMD": 12,
+    "myCurrentHealth": 23,
+    "myFort": 4,
+    "myFortBase": 0,
+    "myFullHealth": 23,
+    "myMeleeAtk": 3,
+    "myName": "scholar-priest",
+    "myNotes": {
+        "myDict": {}
+    },
+    "myRangeAtk": 1,
+    "myRef": 0,
+    "myRefBase": 0,
+    "mySize": 0,
+    "mySkills": {
+        "mySkillDic": {
+            "Cha": [
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 2,
+                    "myAbility": "Cha",
+                    "myMisc": 0,
+                    "myName": "Bluff",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 2,
+                    "myAbility": "Cha",
+                    "myMisc": 0,
+                    "myName": "Diplomacy",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 2,
+                    "myAbility": "Cha",
+                    "myMisc": 0,
+                    "myName": "Disguise",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 2,
+                    "myAbility": "Cha",
+                    "myMisc": 0,
+                    "myName": "Handle Animal",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 2,
+                    "myAbility": "Cha",
+                    "myMisc": 0,
+                    "myName": "Intimidate",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 2,
+                    "myAbility": "Cha",
+                    "myMisc": 0,
+                    "myName": "Perform1",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 2,
+                    "myAbility": "Cha",
+                    "myMisc": 0,
+                    "myName": "Perform2",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 2,
+                    "myAbility": "Cha",
+                    "myMisc": 0,
+                    "myName": "Use Magic Device",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                }
+            ],
+            "Con": [],
+            "Dex": [
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": -1,
+                    "myAbility": "Dex",
+                    "myMisc": 0,
+                    "myName": "Acrobatics",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": -1,
+                    "myAbility": "Dex",
+                    "myMisc": 0,
+                    "myName": "Disable Device",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": -1,
+                    "myAbility": "Dex",
+                    "myMisc": 0,
+                    "myName": "Escape Artist",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": -1,
+                    "myAbility": "Dex",
+                    "myMisc": 0,
+                    "myName": "Fly",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": -1,
+                    "myAbility": "Dex",
+                    "myMisc": 0,
+                    "myName": "Ride",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": -1,
+                    "myAbility": "Dex",
+                    "myMisc": 0,
+                    "myName": "Sleight of Hand",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": -1,
+                    "myAbility": "Dex",
+                    "myMisc": 0,
+                    "myName": "Stealth",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                }
+            ],
+            "Int": [
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Appraise",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Craft1",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Craft2",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Craft3",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (Arcana)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (Dungeoneering)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (Engineering)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (Geography)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (History)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (Local)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (Nature)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (Nobility)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (Planes)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Knowledge (Religion)",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Linguistics",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 0,
+                    "myAbility": "Int",
+                    "myMisc": 0,
+                    "myName": "Spellcraft",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                }
+            ],
+            "Str": [
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 1,
+                    "myAbility": "Str",
+                    "myMisc": 0,
+                    "myName": "Climb",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 1,
+                    "myAbility": "Str",
+                    "myMisc": 0,
+                    "myName": "Swim",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                }
+            ],
+            "Wis": [
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 3,
+                    "myAbility": "Wis",
+                    "myMisc": 0,
+                    "myName": "Heal",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 3,
+                    "myAbility": "Wis",
+                    "myMisc": 0,
+                    "myName": "Perception",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 3,
+                    "myAbility": "Wis",
+                    "myMisc": 0,
+                    "myName": "Profession1",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 3,
+                    "myAbility": "Wis",
+                    "myMisc": 0,
+                    "myName": "Profession2",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 3,
+                    "myAbility": "Wis",
+                    "myMisc": 0,
+                    "myName": "Sense Motive",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                },
+                {
+                    "isClassSkill": false,
+                    "myAbiMod": 3,
+                    "myAbility": "Wis",
+                    "myMisc": 0,
+                    "myName": "Survival",
+                    "myRank": 0,
+                    "myTotBonus": 0
+                }
+            ]
+        },
+        "mySkillNameDic": {
+            "Cha": [
+                "Bluff",
+                "Diplomacy",
+                "Disguise",
+                "Handle Animal",
+                "Intimidate",
+                "Perform1",
+                "Perform2",
+                "Use Magic Device"
+            ],
+            "Con": [],
+            "Dex": [
+                "Acrobatics",
+                "Disable Device",
+                "Escape Artist",
+                "Fly",
+                "Ride",
+                "Sleight of Hand",
+                "Stealth"
+            ],
+            "Int": [
+                "Appraise",
+                "Craft1",
+                "Craft2",
+                "Craft3",
+                "Knowledge (Arcana)",
+                "Knowledge (Dungeoneering)",
+                "Knowledge (Engineering)",
+                "Knowledge (Geography)",
+                "Knowledge (History)",
+                "Knowledge (Local)",
+                "Knowledge (Nature)",
+                "Knowledge (Nobility)",
+                "Knowledge (Planes)",
+                "Knowledge (Religion)",
+                "Linguistics",
+                "Spellcraft"
+            ],
+            "Str": [
+                "Climb",
+                "Swim"
+            ],
+            "Wis": [
+                "Heal",
+                "Perception",
+                "Profession1",
+                "Profession2",
+                "Sense Motive",
+                "Survival"
+            ]
+        }
+    },
+    "myStatMods": {
+        "Cha": 2,
+        "Con": 1,
+        "Dex": -1,
+        "Int": 0,
+        "Str": 1,
+        "Wis": 3
+    },
+    "myStats": {
+        "Cha": 15,
+        "Con": 13,
+        "Dex": 8,
+        "Int": 10,
+        "Str": 12,
+        "Wis": 16
+    },
+    "myWill": 6,
+    "myWillBase": 0
+}

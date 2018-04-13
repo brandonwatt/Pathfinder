@@ -1,0 +1,135 @@
+http://paizo.com/pathfinderRPG/prd/npcCodex/core/barbarian.html
+
+<h1 id="barbarians">Barbarians</h1>
+<p id="savage-mercenary" class="stat-block-title">Savage Mercenary <span class="stat-block-cr">CR 1/2</span></p>
+Savage Mercenary 
+<span class="stat-block-cr">CR 1/2</span>
+<p id="savage-mercenary" class="stat-block-title">Savage Mercenary <span class="stat-block-cr">CR 1/2</span></p>
+<span class="stat-block-cr">CR 1/2</span>
+<p id="savage-mercenary" class="stat-block-title">Savage Mercenary <span class="stat-block-cr">CR 1/2</span></p>
+<p class="stat-block-1"><b>XP</b> 200</p>
+<b>XP</b>
+ 200
+ <p class="stat-block-1"><b>XP</b> 200</p>
+ <p class="stat-block-1"><b>Human barbarian</b> 1</p>
+ <b>Human barbarian</b>
+  1
+  <p class="stat-block-1"><b>Human barbarian</b> 1</p>
+  <p class="stat-block-1">CN Medium humanoid (human)</p>
+  <p class="stat-block-1"><b>Init</b> +1; <b>Senses</b> Perception +5</p>
+  <p class="stat-block-breaker">Defense</p>
+  <p class="stat-block-1"><b>AC</b> 15, touch 9, flat-footed 14 (+6 armor, +1 Dex, –2 rage)</p>
+  <p class="stat-block-1"><b>hp</b> 17 (1d12+5)</p>
+  <p class="stat-block-1"><b>Fort</b> +6, <b>Ref</b> +1, <b>Will</b> +3</p>
+  <p class="stat-block-breaker">Offense</p>
+  <p class="stat-block-1"><b>Speed</b> 30 ft.</p>
+  <p class="stat-block-1"><b>Melee</b> greatsword +6 (2d6+7/19–20) orheavy flail +6 (1d10+7/19–20)</p>
+  <p class="stat-block-1"><b>Special Attacks</b> rage (6 rounds/day)</p>
+  <p class="stat-block-breaker">Tactics</p>
+  <p class="stat-block-1"><b>During Combat</b> The barbarian favors her greatsword and <a href="/pathfinderRPG/prd/coreRulebook/feats.html#power-attack">Power Attack</a> when fighting monsters, but uses her flail against weapon-using foes to make disarm and trip combat maneuvers.</p>
+  <p class="stat-block-1"><b>Base Statistics</b> When not raging, the barbarian's statistics are <b>AC</b> 17, touch 11, flat-footed 16; <b>hp</b> 15; <b>Fort</b> +4, <b>Will</b>+1; <b>Melee</b> greatsword +4 (2d6+4/19–20) or heavy flail +4 (1d10+4/19–20); <b>Ranged</b> sling +2 (1d4+3); <b>Str</b> 17, <b>Con</b> 14; <b>CMB</b> +4; <b>Skills</b> <a href="/pathfinderRPG/prd/coreRulebook/skills/climb.html#climb">Climb</a> +3, <a href="/pathfinderRPG/prd/coreRulebook/skills/swim.html#swim">Swim</a> +3.</p>
+  <p class="stat-block-breaker">statistics</p>
+  <p class="stat-block-1"><b>Str</b> 21, <b>Dex</b> 13, <b>Con</b> 18, <b>Int</b> 10, <b>Wis</b> 12, <b>Cha</b> 8</p>
+  <p class="stat-block-1"><b>Base Atk</b> +1; <b>CMB</b> +6; <b>CMD</b> 15</p>
+  <p class="stat-block-1"><b>Feats</b> Cleave, <a href="/pathfinderRPG/prd/coreRulebook/feats.html#power-attack">Power Attack</a></p>
+  <p class="stat-block-1"><b>Skills</b> <a href="/pathfinderRPG/prd/coreRulebook/skills/climb.html#climb">Climb</a> +5, <a href="/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge">Knowledge</a> (nature) +4, Perception +5, <a href="/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival">Survival</a> +5, <a href="/pathfinderRPG/prd/coreRulebook/skills/swim.html#swim">Swim</a> +5</p>
+  <p class="stat-block-1"><b>Languages</b> Common</p>
+  <p class="stat-block-1"><b>SQ</b> fast movement</p>
+  <p class="stat-block-1"><b>Combat Gear</b><i>potion of <a href="/pathfinderRPG/prd/coreRulebook/spells/cureLightWounds.html#cure-light-wounds">cure light wounds</a></i>, <i>potion of <a href="/pathfinderRPG/prd/coreRulebook/spells/removeFear.html#remove-fear">remove fear</a></i>, alchemist's fire; <b>Other Gear</b> breastplate, greatsword, heavy flail, sling with 10 bullets, 5 gp</p>
+  <p>This cold, merciless barbarian fights for gold and glory.</p>
+  <h3>Arjana</h3>
+  <p>This mercenary once roamed the wilderness, but now fights to pay for the comforts of civilization.</p>
+  <p id="dwarven-rager" class="stat-block-title">Dwarven Rager <span class="stat-block-cr">CR 1</span></p>
+  
+  
+  
+<p id="axe-warrior" class="stat-block-title">Axe Warrior <span class="stat-block-cr">CR 2</span></p>\n
+<p class="stat-block-1"><b>XP</b> 600</p>\n<p class="stat-block-1"><b>Half-orc barbarian</b> 3</p>\n\n
+<p class="stat-block-1">CE Medium humanoid (human, orc)</p>\n
+<p class="stat-block-1"><b>Init</b> +1; <b>Senses</b> darkvision 60 ft.; Perception +6</p>\n
+<p class="stat-block-breaker">Defense</p>\n
+<p class="stat-block-1"><b>AC</b> 15, touch 9, flat-footed 14 (+6 armor, +1 Dex, \xe2\x80\x932 rage)</p>\n
+<p class="stat-block-1"><b>hp</b> 40 (3d12+15)</p>\n
+<p class="stat-block-1"><b>Fort</b> +7, <b>Ref</b> +2, <b>Will</b> +3</p>\n
+<p class="stat-block-1"><b>Defensive Abilities</b> orc ferocity, trap sense +1, uncanny dodge</p>\n
+<p class="stat-block-breaker">Offense</p>\n<p class="stat-block-1"><b>Speed</b> 30 ft.</p>\n
+<p class="stat-block-1"><b>Melee</b> mwk greataxe +9 (1d12+7/\xc3\x973)</p>\n
+<p class="stat-block-1"><b>Ranged</b> mwk sling +5 (1d4+5)</p>\n
+<p class="stat-block-1"><b>Special Attacks</b> rage (10 rounds/day), rage powers (intimidating glare)</p>\n
+<p class="stat-block-breaker">Tactics</p>\n
+<p class="stat-block-1"><b>During Combat</b> The barbarian uses intimidating glare each round, attacking first, then focusing her glare upon the uninjured.</p>\n
+<p class="stat-block-1"><b>Base Statistics</b> When not raging, the barbarian\'s statistics are <b>AC</b> 17, touch 11, flat-footed 16; <b>hp</b> 34; <b>Fort</b> +5, <b>Will</b>+1; <b>Melee</b> mwk greataxe +7 (1d12+4/\xc3\x973); <b>Ranged</b> mwk sling +5 (1d4+3); <b>Str</b> 17, <b>Con</b> 14; <b>CMB</b> +6; <b>Skills</b> <a href="/pathfinderRPG/prd/coreRulebook/skills/climb.html#climb" >Climb</a> +5, <a href="/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate" >Intimidate</a> +12, <a href="/pathfinderRPG/prd/coreRulebook/skills/swim.html#swim" >Swim</a> +3.</p>\n
+<p class="stat-block-breaker">statistics</p>\n
+<p class="stat-block-1"><b>Str</b> 21, <b>Dex</b> 13, <b>Con</b> 18, <b>Int</b> 8, <b>Wis</b> 10, <b>Cha</b> 12</p>\n
+<p class="stat-block-1"><b>Base Atk</b> +3; <b>CMB</b> +8; <b>CMD</b> 17</p>\n
+<p class="stat-block-1"><b>Feats</b> <a href="/pathfinderRPG/prd/coreRulebook/feats.html#intimidating-prowess" >Intimidating Prowess</a>, <a href="/pathfinderRPG/prd/coreRulebook/feats.html#power-attack" >Power Attack</a></p>\n
+<p class="stat-block-1"><b>Skills</b> <a href="/pathfinderRPG/prd/coreRulebook/skills/climb.html#climb" >Climb</a> +7, <a href="/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate" >Intimidate</a> +14, Perception +6, <a href="/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival" >Survival</a> +4, <a href="/pathfinderRPG/prd/coreRulebook/skills/swim.html#swim" >Swim</a> +5</p>\n
+<p class="stat-block-1"><b>Languages</b> Common, Orc</p>\n
+<p class="stat-block-1"><b>SQ</b> fast movement, orc blood, weapon familiarity</p>\n
+<p class="stat-block-1"><b>Combat Gear</b><i>potion of <a href="/pathfinderRPG/prd/coreRulebook/spells/cureLightWounds.html#cure-light-wounds" >cure light wounds</a></i>, <i>potion of <a href="/pathfinderRPG/prd/coreRulebook/spells/restoration.html#restoration-lesser" >lesser restoration</a></i>, <i>potion of <a href="/pathfinderRPG/prd/coreRulebook/spells/protectionFromGood.html#protection-from-good" >protection from good</a></i>; <b>Other Gear</b> mwk chainmail, mwk greataxe, mwk sling with 10 bullets, climber\'s kit, 250 gp</p>
+\n\n\n<p id  
+  
+<p id="traitorous-brigand" class="stat-block-title">Traitorous Brigand <span class="stat-block-cr">CR 2</span></p>\n
+<p class="stat-block-1"><b>XP</b> 600</p>\n
+<p class="stat-block-1"><b>Half-orc fighter</b> 3</p>\n
+<p class="stat-block-1">NE Medium humanoid (human, orc)</p>\n
+<p class="stat-block-1"><b>Init</b> +5; <b>Senses</b> darkvision 60 ft.; Perception \xe2\x80\x931</p>\n
+<p class="stat-block-breaker">Defense</p>\n
+<p class="stat-block-1"><b>AC</b> 17, touch 11, flat-footed 16 (+6 armor)</p>\n
+<p class="stat-block-1"><b>hp</b> 30 (3d10+9) </p>\n
+<p class="stat-block-1"><b>Fort</b> +5, <b>Ref</b> +2, <b>Will</b> +2; +1 vs. fear </p>\n
+<p class="stat-block-1"><b>Defensive Abilities</b> bravery +1, orc ferocity</p>\n
+<p class="stat-block-breaker">Offense</p>\n
+<p class="stat-block-1"><b>Speed</b> 30 ft.</p>\n
+<p class="stat-block-1"><b>Melee</b> mwk greataxe +7 (1d12+4/\xc3\x973) or sap +6 (1d6+3 nonlethal)</p>\n
+<p class="stat-block-1"><b>Ranged</b> javelin +4 (1d6+3)</p>\n<p class="stat-block-breaker">Tactics</p>\n
+<p class="stat-block-1"><b>During Combat</b> The fighter opens with an <a href="/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate" >Intimidate</a> check to demoralize the nearest enemy, then wades in with his axe using Cleave when possible. </p>\n
+<p class="stat-block-breaker">Statistics</p>\n
+<p class="stat-block-1"><b>Str</b> 17, <b>Dex</b> 12, <b>Con</b> 14, <b>Int</b> 10, <b>Wis</b> 8, <b>Cha</b> 13</p>\n
+<p class="stat-block-1"><b>Base Atk</b> +3; <b>CMB</b> +6; <b>CMD</b> 17</p>\n
+<p class="stat-block-1"><b>Feats</b> Cleave, <a href="/pathfinderRPG/prd/coreRulebook/feats.html#improved-initiative" >Improved Initiative</a>, <a href="/pathfinderRPG/prd/coreRulebook/feats.html#iron-will" >Iron Will</a>, <a href="/pathfinderRPG/prd/coreRulebook/feats.html#power-attack" >Power Attack</a></p>\n
+<p class="stat-block-1"><b>Skills</b> <a href="/pathfinderRPG/prd/coreRulebook/skills/climb.html#climb" >Climb</a> +5, <a href="/pathfinderRPG/prd/coreRulebook/skills/intimidate.html#intimidate" >Intimidate</a> +9, <a href="/pathfinderRPG/prd/coreRulebook/skills/survival.html#survival" >Survival</a> +3, <a href="/pathfinderRPG/prd/coreRulebook/skills/swim.html#swim" >Swim</a> +5</p>\n
+<p class="stat-block-1"><b>Languages</b> Common, Orc</p>\n
+<p class="stat-block-1"><b>SQ</b> armor training 1, orc blood, weapon familiarity</p>\n
+<p class="stat-block-1"><b>Combat Gear</b><i>potion of <a href="/pathfinderRPG/prd/coreRulebook/spells/bullSStrength.html#bull-s-strength" >bull\'s strength</a></i>, <i>potion of <a href="/pathfinderRPG/prd/coreRulebook/spells/cureModerateWounds.html#cure-moderate-wounds" >cure moderate wounds</a></i>, <i>potion of <a href="/pathfinderRPG/prd/coreRulebook/spells/enlargePerson.html#enlarge-person" >enlarge person</a></i> (CL 3rd); <b>Other Gear</b> masterwork breastplate, javelins (4), masterwork greataxe, sap, sack, gold necklace (worth 100 gp), 124 gp</p>\n
+\n<p>Brigands are hard as nails and always look out for themselves first. </p>\n
+<h3>Rorn the Black</h3>\n
+<p>Rorn has made a good living as a bandit, but the same can\'t be said for his allies. Sometimes he runs out on them when their luck turns bad, sometimes he\'s the only survivor, and sometimes he cuts down his own allies to claim all the loot. </p>\n
+\t\t\n<p id
+  
+
+<p id="scholar-priest" class="stat-block-title">Scholar Priest <span class="stat-block-cr">CR 2</span></p>\n
+<p class="stat-block-1"><b>XP</b> 600</p>\n
+<p class="stat-block-1"><b>Human cleric</b> 3</p>\n
+\n
+<p class="stat-block-1">CN Medium humanoid (human)</p>\n
+<p class="stat-block-1"><b>Init</b> \xe2\x80\x931; <b>Senses</b> Perception +3</p>\n
+<p class="stat-block-breaker">Defense</p>\n
+<p class="stat-block-1"><b>AC</b> 15, touch 9, flat-footed 15 (+6 armor, \xe2\x80\x931 Dex)</p>\n
+<p class="stat-block-1"><b>hp</b> 23 (3d8+6)</p>\n
+<p class="stat-block-1"><b>Fort</b> +4, <b>Ref</b> +0, <b>Will</b> +6</p>\n
+<p class="stat-block-breaker">Offense</p>\n<p class="stat-block-1"><b>Speed</b> 20 ft.</p>\n
+<p class="stat-block-1"><b>Melee</b> quarterstaff +3 (1d6+1)</p>\n
+<p class="stat-block-1"><b>Ranged </b>light crossbow +1 (1d8/19\xe2\x80\x9320)<b></b></p>\n
+<p class="stat-block-1"><b>Special Attacks</b> channel negative energy 7/day (DC 13, 2d6), hand of the acolyte (6/day)</p>\n
+<p class="stat-block-1"><b>Domain Spell-Like Abilities</b> (CL 3rd; concentration +6)</p>\n
+<p class="stat-block-2">6/day&mdash;blast rune (1d6+1 energy damage, 3 rounds)</p>\n
+<p class="stat-block-1"><b>Cleric Spells Prepared</b> (CL 3rd; concentration +6)</p>\n
+<p class="stat-block-2">2nd&mdash;<i><a href="/pathfinderRPG/prd/coreRulebook/spells/holdPerson.html#hold-person" >hold person</a></i> (DC 16), <i><a href="/pathfinderRPG/prd/coreRulebook/spells/magicMouth.html#magic-mouth" >magic mouth</a></i><sup>D</sup>, <i><a href="/pathfinderRPG/prd/coreRulebook/spells/spiritualWeapon.html#spiritual-weapon" >spiritual weapon</a></i></p>\n
+<p class="stat-block-2">1st&mdash;<i><a href="/pathfinderRPG/prd/coreRulebook/spells/command.html#command" >command</a></i> (2, DC 15), <i><a href="/pathfinderRPG/prd/coreRulebook/spells/erase.html#erase" >erase</a></i><sup>D</sup>, <i><a href="/pathfinderRPG/prd/coreRulebook/spells/obscuringMist.html#obscuring-mist" >obscuring mist</a></i></p>\n
+<p class="stat-block-2">0 (at will)&mdash;<i><a href="/pathfinderRPG/prd/coreRulebook/spells/detectMagic.html#detect-magic" >detect magic</a>, <a href="/pathfinderRPG/prd/coreRulebook/spells/detectPoison.html#detect-poison" >detect poison</a>, <a href="/pathfinderRPG/prd/coreRulebook/spells/purifyFoodAndDrink.html#purify-food-and-drink" >purify food and drink</a>, <a href="/pathfinderRPG/prd/coreRulebook/spells/stabilize.html#stabilize" >stabilize</a></i></p>\n
+<p class="stat-block-2"><b>D</b> Domain spell; <b>Domains</b> Magic, Rune</p>\n
+<p class="stat-block-breaker">Tactics</p>\n
+<p class="stat-block-1"><b>During Combat</b> The cleric uses his <i>scroll of <a href="/pathfinderRPG/prd/coreRulebook/spells/darkness.html#darkness" >darkness</a>,</i> then follows with ranged spells.</p>\n
+<p class="stat-block-breaker">Statistics</p>\n
+<p class="stat-block-1"><b>Str</b> 12, <b>Dex</b> 8, <b>Con</b> 13, <b>Int</b> 10, <b>Wis</b> 16, <b>Cha</b> 15</p>\n
+<p class="stat-block-1"><b>Base Atk</b> +2; <b>CMB</b> +3; <b>CMD</b> 12</p>\n
+<p class="stat-block-1"><b>Feats</b> <a href="/pathfinderRPG/prd/coreRulebook/feats.html#extra-channel" >Extra Channel</a>, <a href="/pathfinderRPG/prd/coreRulebook/feats.html#scribe-scroll" >Scribe Scroll</a>, <a href="/pathfinderRPG/prd/coreRulebook/feats.html#selective-channeling" >Selective Channeling</a>, <a href="/pathfinderRPG/prd/coreRulebook/feats.html#spell-focus" >Spell Focus</a> (enchantment)</p>\n
+<p class="stat-block-1"><b>Skills</b> <a href="/pathfinderRPG/prd/coreRulebook/skills/knowledge.html#knowledge" >Knowledge</a> (arcana) +7, Perception +6, <a href="/pathfinderRPG/prd/coreRulebook/skills/senseMotive.html#sense-motive" >Sense Motive</a> +9, <a href="/pathfinderRPG/prd/coreRulebook/skills/spellcraft.html#spellcraft" >Spellcraft</a> +7</p>\n
+<p class="stat-block-1"><b>Languages</b> Common</p>\n
+<p class="stat-block-1"><b>SQ</b> aura</p>\n
+<p class="stat-block-1"><b>Combat Gear </b><i>potion of <a href="/pathfinderRPG/prd/coreRulebook/spells/invisibility.html#invisibility" >invisibility</a></i>, <i>scroll of <a href="/pathfinderRPG/prd/coreRulebook/spells/comprehendLanguages.html#comprehend-languages" >comprehend languages</a></i>, <i>scroll of <a href="/pathfinderRPG/prd/coreRulebook/spells/cureModerateWounds.html#cure-moderate-wounds" >cure moderate wounds</a></i>, <i>scroll of <a href="/pathfinderRPG/prd/coreRulebook/spells/darkness.html#darkness" >darkness</a></i>, <i>scroll of <a href="/pathfinderRPG/prd/coreRulebook/spells/findTraps.html#find-traps" >find traps</a></i>, alchemist\'s fire (2), everburning torch, smokesticks (2); <b>Other Gear</b> masterwork breastplate, light crossbow with 20 bolts, quarterstaff, silver unholy symbol, 537 gp</p>\n\n
+<p>The scholar priest is a devotee of magical knowledge, securing it from the unworthy at all costs. </p>\n
+\t\t\t\t\n<p id
+
+  
